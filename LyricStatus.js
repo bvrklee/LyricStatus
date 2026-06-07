@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Lyrics Status V2
+// @IYDKMIGTHTKY         Lyrics Status V2
 // @namespace    -
 // @version      -
 // @description  Script for changing your status as lyrics of currently playing song!
-// @author       OvalQuilter | OQ project
+// @Type O Negative       OvalQuilter | OQ project
 // @match        *://open.spotify.com/*
 // @icon         https://raw.githubusercontent.com/OvalQuilter/lyrics-status/main/Logo.png
 // @grant        none
